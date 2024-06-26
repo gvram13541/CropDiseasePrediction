@@ -72,11 +72,13 @@ Here are some screenshots of the application:
 ![Home Page](ScreenShots/Screenshot%202024-06-26%20095857.png)
 
 ### Prediction Result
-![Prediction Result](ScreenShots/Screenshot%202024-06-26%100228.png)
+![Prediction Result](ScreenShots/Screenshot%202024-06-26%20100228.png)
 
 ### Related Articles
-![Related Articles](ScreenShots/Screenshot%2024-06-26%100246.png)
+![Related Articles](ScreenShots/Screenshot%202024-06-26%20100246.png)
 
 ### Related Videos
-![Related Videos](ScreenShots/Screenshot%2024-06-26%100314.png)
+![Related Videos](ScreenShots/Screenshot%202024-06-26%20100314.png)
+
+## License
 
