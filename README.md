@@ -8,6 +8,7 @@ This project aims to predict leaf diseases using a Convolutional Neural Network 
 - [Technologies Used](#technologies-used)
 - [Setup and Installation](#setup-and-installation)
 - [Usage](#usage)
+- [Screenshots](#screenshots)
 - [License](#license)
 
 ## Introduction
