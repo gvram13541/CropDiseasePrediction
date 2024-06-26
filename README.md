@@ -69,16 +69,14 @@ This project helps in identifying diseases in plant leaves by analyzing images. 
 Here are some screenshots of the application:
 
 ### Home Page
-![Home Page](LeafDiseasePrediction\ScreenShots\Screenshot 2024-06-26 095857.png)
-
-### Upload Image
-![Upload Image](screenshots/upload_image.png)
+![Home Page](ScreenShots/Screenshot%202024-06-26%20095857.png)
 
 ### Prediction Result
-![Prediction Result](screenshots/prediction_result.png)
+![Prediction Result](ScreenShots/Screenshot%202024-06-26%100228.png)
 
 ### Related Articles
-![Related Articles](screenshots/related_articles.png)
+![Related Articles](ScreenShots/Screenshot%2024-06-26%100246.png)
 
 ### Related Videos
-![Related Videos](screenshots/related_videos.png)
+![Related Videos](ScreenShots/Screenshot%2024-06-26%100314.png)
+
