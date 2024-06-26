@@ -63,3 +63,22 @@ This project helps in identifying diseases in plant leaves by analyzing images. 
 1. Open your web browser and navigate to `http://localhost:3000`.
 2. Upload an image of a leaf to predict the disease.
 3. View the prediction results along with related articles and YouTube videos.
+
+
+## Screenshots
+Here are some screenshots of the application:
+
+### Home Page
+![Home Page](screenshots/home_page.png)
+
+### Upload Image
+![Upload Image](screenshots/upload_image.png)
+
+### Prediction Result
+![Prediction Result](screenshots/prediction_result.png)
+
+### Related Articles
+![Related Articles](screenshots/related_articles.png)
+
+### Related Videos
+![Related Videos](screenshots/related_videos.png)
