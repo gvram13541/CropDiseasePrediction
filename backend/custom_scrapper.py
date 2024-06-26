@@ -8,7 +8,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # YouTube API key (you'll need to set this in your .env file)
-YOUTUBE_API_KEY = "AIzaSyD_dJ3UYaCxCoz7iqgBG3AzNK3vSllfS78"
+YOUTUBE_API_KEY = "API_KEY"
 
 def scrape_articles(query, num_articles=5):
     print(query)
