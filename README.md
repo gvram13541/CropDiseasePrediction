@@ -40,6 +40,8 @@ This project helps in identifying diseases in plant leaves by analyzing images. 
 - Virtual environment
 
 ### Setup
+Note: Some of the large files like compiled cnn model, React node modules, etc are git ignored so please enusre you have them when you try to git clone.
+
 1. Clone the repository:
     ```bash
     git clone https://github.com/gvram13541/CropDiseasePrediction.git
